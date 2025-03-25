@@ -1,0 +1,150 @@
+# macOS系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 生成缩略图
+._*
+
+# macOS目录
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyproj
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 缓存文件
+*.log
+*.pot
+*.pyc
+
+# IDE 和编辑器相关
+*.idea/
+*.vscode/
+*.swp
+*~
+
+# 环境配置
+.env
+.env.*
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# PDFLatex
+*.pdf
+
+# 临时文件
+*.tmp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+
+# 编译生成的目录
+_build/
+.texpadtmp/
+*.latexmain
+*.synctex
+
+
+# C++ 编译文件
+*.o
+*.obj
+*.exe
+*.a
+*.so
+*.dylib
+*.lib
+*.dll
+*.slo
+*.lo
+*.ilk
+*.pdb
+*.exp
+*.suo
+*.sdf
+*.idb
+*.ipch
+*.pch
+*.manifest
+*.cache
+*.user
+*.filters
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+bin/
+out/
+Debug/
+Release/
+x64/
+x86/
+Win32/
+.vs/
+
+# CLion 特定文件
+.idea/
+*.iml
+cmake-build-debug/
+cmake-build-release/
+
+
+# Ignore build directories
+
+cmake-build-*/
