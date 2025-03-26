@@ -12,4 +12,6 @@ data <- data.frame(
   value = c(3,12,5,18,45)
 )
 
-ggplot(data, aes(x = name, y = value)) + geom_bar(stat = "identity") + coord_flip()
+ggplot(data, aes(x = name, y = value)) +
+  geom_bar(stat = "identity") +
+  coord_flip()  # 水平翻转

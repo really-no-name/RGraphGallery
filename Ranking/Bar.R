@@ -14,5 +14,5 @@ data <- data.frame(
   )
 
 # Barplot
-ggplot(data, aes(x=name, y=value)) +
+ggplot(data, aes(x=name, y=value)) +  # aes(): 美学映射，将数据变量映射到图形属性
   geom_bar(stat = "identity")
