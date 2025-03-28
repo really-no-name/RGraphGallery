@@ -6,7 +6,7 @@
 
 
 data <- data.frame(
-  name=c("A","B","C","D","E") ,
+  name=c("A","b","C","D","z") ,
   value=c(3,12,5,18,45)
 )
 
