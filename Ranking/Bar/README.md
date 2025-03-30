@@ -21,6 +21,7 @@
   * [基础绘图](#基础绘图)
   * [改变颜色](#改变颜色)
   * [标题](#标题)
+  * [水平放置](#水平放置-1)
 <!-- TOC -->
 
 
@@ -175,3 +176,7 @@ ggplot(mtcars, aes(x = factor(cyl))) +
 ## [标题](barplot_3.R)
 
 ![](photo/barplot_3.png)
+
+## [水平放置](barplot_4.R)
+
+![](photo/barplot_4.png)
