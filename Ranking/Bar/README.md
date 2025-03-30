@@ -24,6 +24,7 @@
   * [水平放置](#水平放置-1)
   * [宽度/空白宽度](#宽度空白宽度)
   * [标题样式](#标题样式)
+  * [长标题](#长标题)
 <!-- TOC -->
 
 
@@ -190,3 +191,7 @@ ggplot(mtcars, aes(x = factor(cyl))) +
 ## [标题样式](barplot_6.R)
 
 ![](photo/barplot_6.png)
+
+## [长标题/边距](barplot_7.R)
+
+![](photo/barplot_7.png)

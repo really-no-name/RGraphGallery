@@ -2,7 +2,7 @@
 # Author: Bolun Xu
 # Version: 1.0
 # Date: 2025/3/30
-# Description: 柱状图 barplot 标签样式
+# Description: 柱状图 barplot 标签样式 标题名字
 
 # create dummy data
 data <- data.frame(
@@ -12,7 +12,7 @@ data <- data.frame(
 
 # Customize labels (left)
 barplot(height=data$value, names=data$name,
-        names.arg=c("group1","group2","group3","group4","group5"),
+        names.arg=c("group1","group2","group3","group4","group5"),  # 改变标题名字
         font.axis=3,  # 字体：1：正常，2：粗体，3：斜体，4：粗体斜体
         col.axis="orange",  # 颜色
         cex.axis=1.2  # 尺寸
