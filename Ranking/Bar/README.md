@@ -19,10 +19,11 @@
   * [水平放置](#水平放置)
 * [`barplot`](#barplot)
   * [基础绘图](#基础绘图)
+  * [改变颜色](#改变颜色)
 <!-- TOC -->
 
 
-
+---
 
 在R中，`ggplot2`包中的`geom_bar()`和基础图形系统中的`barplot()`都是用于绘制条形图的函数，但它们在语法、灵活性、数据结构和扩展性等方面有显著区别。以下是主要区别的总结：
 
@@ -165,3 +166,7 @@ ggplot(mtcars, aes(x = factor(cyl))) +
 ## [基础绘图](bar.R)
 
 ![](photo/barplot_1.png)
+
+## [改变颜色](bar_2.R)
+
+![](photo/barplot_2.png)
