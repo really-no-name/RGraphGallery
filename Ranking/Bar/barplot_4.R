@@ -2,7 +2,7 @@
 # Author: Bolun Xu
 # Version: 1.0
 # Date: 2025/3/30
-# Description: 柱状图 水平
+# Description: 柱状图 水平 barplot
 
 # create dummy data
 data <- data.frame(

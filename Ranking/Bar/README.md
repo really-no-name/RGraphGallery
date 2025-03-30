@@ -22,6 +22,7 @@
   * [改变颜色](#改变颜色)
   * [标题](#标题)
   * [水平放置](#水平放置-1)
+  * [宽度/空白宽度](#宽度空白宽度)
 <!-- TOC -->
 
 
@@ -180,3 +181,7 @@ ggplot(mtcars, aes(x = factor(cyl))) +
 ## [水平放置](barplot_4.R)
 
 ![](photo/barplot_4.png)
+
+## [宽度/空白宽度](barplot_5.R)
+
+![](photo/barplot_5.png)
