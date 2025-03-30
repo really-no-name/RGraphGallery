@@ -20,6 +20,7 @@
 * [`barplot`](#barplot)
   * [基础绘图](#基础绘图)
   * [改变颜色](#改变颜色)
+  * [标题](#标题)
 <!-- TOC -->
 
 
@@ -163,10 +164,14 @@ ggplot(mtcars, aes(x = factor(cyl))) +
 
 # `barplot`
 
-## [基础绘图](bar.R)
+## [基础绘图](barplot.R)
 
 ![](photo/barplot_1.png)
 
-## [改变颜色](bar_2.R)
+## [改变颜色](barplot_2.R)
 
 ![](photo/barplot_2.png)
+
+## [标题](barplot_3.R)
+
+![](photo/barplot_3.png)
