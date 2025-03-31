@@ -12,6 +12,8 @@
 
 ### §2.1 [Scatter 散点图](Correlation/Sactter/README.md)
 
+![普通散点图](Correlation/Sactter/photo/geompoint_1.png)
+
 ## §3 Ranking 
 
 ### §3.1 [Bar 柱状图](Ranking/Bar/README.md)

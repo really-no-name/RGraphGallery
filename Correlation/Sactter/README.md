@@ -5,3 +5,11 @@
 ### [普通散点图](geompoint_1.R)
 
 ![](photo/geompoint_1.png)
+
+### [改变颜色](geompoint_2.R)
+
+![](photo/geompoint_2.png)
+
+### [主题](geompoint_3.R)
+
+![](photo/geompoint_3.png)
