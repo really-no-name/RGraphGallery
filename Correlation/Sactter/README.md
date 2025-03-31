@@ -13,3 +13,7 @@
 ### [主题](geompoint_3.R)
 
 ![](photo/geompoint_3.png)
+
+### [分组](geompoint_4.R)
+
+![](photo/geompoint_4.png)
