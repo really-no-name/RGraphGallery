@@ -25,3 +25,7 @@
 ### [地毯线](geompoint_6.R)
 
 ![](photo/geompoint_6.png)
+
+### [分布 箱型图 曲线](geompoint_7.R)
+
+![](photo/geompoint_7.png)
