@@ -21,3 +21,7 @@
 ### [添加标注](geompoint_5.R)
 
 ![](photo/geompoint_5.png)
+
+### [地毯线](geompoint_6.R)
+
+![](photo/geompoint_6.png)
