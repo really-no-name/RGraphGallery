@@ -1,5 +1,18 @@
 #  Scatter 散点图
 
+<!-- TOC -->
+* [Scatter 散点图](#scatter-散点图)
+  * [`geom_point`](#geom_point)
+    * [普通散点图](#普通散点图)
+    * [改变颜色](#改变颜色)
+    * [主题](#主题)
+    * [分组](#分组)
+    * [添加标注](#添加标注)
+    * [地毯线](#地毯线)
+    * [分布 箱型图 曲线](#分布-箱型图-曲线)
+    * [线性拟合](#线性拟合)
+<!-- TOC -->
+
 ## `geom_point`
 
 ### [普通散点图](geompoint_1.R)
@@ -29,3 +42,7 @@
 ### [分布 箱型图 曲线](geompoint_7.R)
 
 ![](photo/geompoint_7.png)
+
+### [线性拟合](geompoint_8.R)
+
+![](photo/geompoint_8.png)
