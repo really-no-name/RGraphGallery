@@ -17,3 +17,7 @@
 ### [分组](geompoint_4.R)
 
 ![](photo/geompoint_4.png)
+
+### [添加标注](geompoint_5.R)
+
+![](photo/geompoint_5.png)

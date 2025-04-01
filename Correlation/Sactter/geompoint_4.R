@@ -25,3 +25,8 @@ ggplot(iris, aes(x=Sepal.Length, y=Sepal.Width, size=Petal.Width)) +
     geom_point(color="darkred") +
     ggtitle("Size") +
     theme_ipsum()
+
+# A basic scatterplot with color depending on Species
+ggplot(iris, aes(x=Sepal.Length, y=Sepal.Width, shape=Species, alpha=Species, size=Species, color=Species)) +
+    geom_point() +
+    theme_ipsum()
