@@ -25,3 +25,5 @@
 ## §4 Part of a Whole
 
 ### §4.1 [Pie Chart 饼图](PartofaWhole/Pie/README.md)
+
+![](PartofaWhole/Pie/photo/pie_2.png)
