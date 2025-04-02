@@ -46,3 +46,7 @@
 ### [线性拟合](geompoint_8.R)
 
 ![](photo/geompoint_8.png)
+
+### [分组线性拟合](geompoint_9.R)
+
+![](photo/geompoint_9.png)
