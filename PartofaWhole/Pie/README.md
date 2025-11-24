@@ -7,6 +7,7 @@
     * [填充颜色](#填充颜色)
   * [`geom_bar()` + `coord_polar()`](#geom_bar--coord_polar)
     * [基础](#基础-1)
+    * [标签](#标签)
 <!-- TOC -->
 
 ## `pie()`
@@ -24,3 +25,5 @@
 ### [基础](coordpolar_1.R)
 
 ![](photo/coordpolar_1.png)
+
+### [标签]()
